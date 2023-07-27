@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eee9e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensure the page fills the entire viewport height */
+  }
+  
+  .container {
+    max-width: 800px; /* Increased width to accommodate the table layout */
+    padding: 20px;
+    border: 1px solid #9c716f;
+    border-radius: 5px;
+    background-color: #f7f3ee;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #9c716f;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #9c716f;
+    border-radius: 5px;
+  }
+  
+  select {
+    padding: 10px;
+    border: 1px solid #9c716f;
+    border-radius: 5px;
+    background-color: #f7f3ee;
+    color: #9c716f;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background-color: #9c716f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #9c716f;
+    border-radius: 5px;
+  }
+  
+  th {
+    background-color: #9c716f;
+    color: white;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #808080;
+  }
+  
+  .moodboard-list td {
+    background-color: #e6c7bf;
+  }
+  
+  .exercise-list td {
+    background-color: #ddad8a;
+  }
+  
+  .todo-list td {
+    background-color: #f7f3ee;
+  }
+
+  /* ... existing styles ... */
+
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #9c716f;
+    border-radius: 5px;
+  }
+  
+  th {
+    background-color: #9c716f;
+    color: white;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #808080;
+  }
+  
+  .moodboard-list td {
+    background-color: #e6c7bf;
+  }
+  
+  .exercise-list td {
+    background-color: #ddad8a;
+  }
+  
+  .todo-list td {
+    background-color: #f7f3ee;
+  }
+  
+  /* ... existing styles ... */
+
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #9c716f;
+    border-radius: 5px;
+  }
+  
+  th {
+    background-color: #9c716f;
+    color: white;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #808080;
+  }
+  
+  .moodboard-list td {
+    background-color: #e6c7bf;
+  }
+  
+  .exercise-list td {
+    background-color: #ddad8a;
+  }
+  
+  .todo-list td {
+    background-color: #f7f3ee;
+  }
+  
