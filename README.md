@@ -1,2 +1,21 @@
-# To_Do_List
-The To-Do app is a simple tool that helps you keep track of tasks you need to complete. You can add tasks with deadlines and categorize them based on their type. The app displays the tasks in a table, making it easy to see what needs to be done, when it's due, and its category. It is a simple Web made with Ts
+# To-Do List Web App
+
+The To-Do List web app is a simple tool that helps you manage your tasks effectively. It allows you to keep track of tasks, set deadlines, and categorize them for better organization.
+
+## Features
+
+- Add new tasks with deadlines
+- Categorize tasks as "Todo," "Mood Board," or "Exercise Routine"
+- Mark tasks as completed when finished
+- Display tasks in a table format for easy visualization
+- Automatically load tasks from a JSON file at startup
+
+## Getting Started
+
+To use the To-Do List app, follow these steps:
+
+1. Clone this repository to your local machine or download the code as a ZIP file.
+2. Ensure you have [Node.js](https://nodejs.org) installed on your system.
+3. Open a terminal or command prompt, navigate to the project folder, and install dependencies with the following command:
+
+
